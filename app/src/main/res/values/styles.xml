@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.AZ" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item><item name="android:colorAccent">@color/az_cyan</item>
+        <item name="android:navigationBarColor">@color/az_bg</item><item name="android:statusBarColor">@color/az_bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
