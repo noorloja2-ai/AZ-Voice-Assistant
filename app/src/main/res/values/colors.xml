@@ -1,0 +1,5 @@
+<resources>
+    <color name="az_bg">#030712</color><color name="az_panel">#101827</color>
+    <color name="az_cyan">#22D3EE</color><color name="az_white">#F8FAFC</color>
+    <color name="az_green">#22C55E</color><color name="az_red">#EF4444</color>
+</resources>
